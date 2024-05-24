@@ -1,0 +1,1 @@
+pais=(int(input("ingrese un pais")))
